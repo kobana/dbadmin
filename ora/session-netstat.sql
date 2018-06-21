@@ -1,7 +1,7 @@
 -- This is free and unencumbered software released into the public domain.
 
 
--- Select all the sessions and their respective network statistics
+-- Select all session and their respective network statistics
 
 select *
 from (
